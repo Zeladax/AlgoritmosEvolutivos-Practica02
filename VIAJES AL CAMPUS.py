@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 # Definimos el presupuesto de Carla
 presupuesto = 15.0
 
