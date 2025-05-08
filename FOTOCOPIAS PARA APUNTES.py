@@ -2,7 +2,7 @@ import numpy as np
 
 # Presupuesto de Maria
 presupuesto = 8.0
-
+ 
 # Precios de las copisterías
 precios = np.array([0.10, 0.12, 0.08])
 
