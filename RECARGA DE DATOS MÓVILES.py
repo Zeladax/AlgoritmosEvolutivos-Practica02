@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 # Definimos los tamaños de los paquetes (en GB)
 paquetes = np.array([1, 2, 5, 10])
 
