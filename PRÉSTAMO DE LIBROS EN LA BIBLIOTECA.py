@@ -1,5 +1,5 @@
 import pandas as pd
-
+ 
 # Diccionario de datos
 datos = {
     'Estudiante': ['Rosa', 'David', 'Elena', 'Mario', 'Paula'],
