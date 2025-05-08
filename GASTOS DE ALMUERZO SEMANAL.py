@@ -1,5 +1,5 @@
 import pandas as pd
-
+ 
 # Definimos el diccionario de datos
 datos = {
     'Gasto': [4.0, 3.5, 5.0, 4.2, 3.8],
